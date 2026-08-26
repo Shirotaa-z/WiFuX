@@ -12,7 +12,7 @@ clear
 echo -e "${C_B_GRN}${B}"
 echo "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰"
 echo "        F I X   T E R M U X   R O O T          "
-echo "           Powered by: msrofficial            "
+echo "           Powered by: Shirotaa-z            "
 echo "▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰"
 echo -e "${R}"
 
