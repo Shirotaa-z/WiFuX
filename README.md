@@ -131,10 +131,10 @@ wifux fix
 
 If the issue persists, use the dedicated fix script:
 ```bash
-curl -sO https://raw.githubusercontent.com/msrofficial/fix-termux-root/main/fix.sh && chmod +x fix.sh && ./fix.sh
+curl -sO https://raw.githubusercontent.com/Shirotaa-z/Wif/main/fix.sh && chmod +x fix.sh && ./fix.sh
 ```
 
-Manual solutions: [github.com/msrofficial/fix-termux-root](https://github.com/Shirotaa-z/Wif)
+Manual solutions: [](https://github.com/Shirotaa-z/Wif)
 
 ---
 
