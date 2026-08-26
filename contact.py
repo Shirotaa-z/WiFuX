@@ -5,26 +5,29 @@ import subprocess
 import sys
 
 # ─────────────────────────────────────────────
-#  Social Media Links — MSR Sakibur
+#  Social Media Links — Shirotaa
 # ─────────────────────────────────────────────
 CONTACTS = {
-    1: {"name": "Facebook",   "url": "https://m.facebook.com/sakibur.msr"},
-    2: {"name": "Instagram",  "url": "https://instagram.com/msr.sakibur"},
-    3: {"name": "Telegram",   "url": "https://t.me/msrofficial"},
-    4: {"name": "GitHub",     "url": "https://github.com/msrofficial"},
-    5: {"name": "TG Group",   "url": "https://t.me/msrpatchchat"},
+    1: {"name": "Facebook",   "url": "-"},
+    2: {"name": "Instagram",  "url": "-"},
+    3: {"name": "Telegram",   "url": "-"},
+    4: {"name": "GitHub",     "url": "https://github.com/Shirotaa-z"},
+    5: {"name": "TG Group",   "url": "-"},
 }
 
 # ─────────────────────────────────────────────
 
 def banner():
     print('''\033[1;32m
-███╗   ███╗███████╗██████╗ 
-████╗ ████║██╔════╝██╔══██╗
-██╔████╔██║███████╗██████╔╝
-██║╚██╔╝██║╚════██║██╔══██╗
-██║ ╚═╝ ██║███████║██║  ██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝\033[0m
+ _______          _________ _______  _______ _________ _______  _______ 
+(  ____ \|\     /|\__   __/(  ____ )(  ___  )\__   __/(  ___  )(  ___  )
+| (    \/| )   ( |   ) (   | (    )|| (   ) |   ) (   | (   ) || (   ) |
+| (_____ | (___) |   | |   | (____)|| |   | |   | |   | (___) || (___) |
+(_____  )|  ___  |   | |   |     __)| |   | |   | |   |  ___  ||  ___  |
+      ) || (   ) |   | |   | (\ (   | |   | |   | |   | (   ) || (   ) |
+/\____) || )   ( |___) (___| ) \ \__| (___) |   | |   | )   ( || )   ( |
+\_______)|/     \|\_______/|/   \__/(_______)   )_(   |/     \||/     \|
+                                                                        \033[0m
 ''')
 
 def show_menu():
