@@ -134,7 +134,8 @@ If the issue persists, use the dedicated fix script:
 curl -sO https://raw.githubusercontent.com/Shirotaa-z/Wif/main/fix.sh && chmod +x fix.sh && ./fix.sh
 ```
 
-Manual solutions: [](https://github.com/Shirotaa-z/Wif)
+Manual solutions: (https://github.com/Shirotaa-z/Wif).
+
 
 ---
 
